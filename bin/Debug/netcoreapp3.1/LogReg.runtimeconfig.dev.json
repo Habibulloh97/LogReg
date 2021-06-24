@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/phenomenal/.dotnet/store/|arch|/|tfm|",
+      "/Users/phenomenal/.nuget/packages"
+    ]
+  }
+}
